@@ -6,7 +6,7 @@
 
 ## this is a sentence with heading 2
 
-[this is a link to gihub](https://www.github.com)
+[this is a link to github](https://www.github.com)
 
 > this is text inside a blockquote
 
